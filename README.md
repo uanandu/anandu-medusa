@@ -9,7 +9,7 @@ To run this application you will need
 
 This project consist of 2 folders
 * Medusa backend + admin portal
-* Next.js storefront
+* Next.js front
 
 ## Getting Started
 
