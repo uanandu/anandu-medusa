@@ -1,0 +1,2 @@
+# anandu-medusa
+MedusaJS store
